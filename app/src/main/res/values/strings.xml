@@ -1,0 +1,63 @@
+<resources>
+
+    <!-- Default -->
+    <string name="app_name">RetailX</string>
+    <string name="error_title">Error</string>
+    <string name="warning_title">Warning!</string>
+    <string name="question_title">Are you sure?</string>
+    <string name="action_positive_title">Ok</string>
+    <string name="action_negative_title">Cancel</string>
+
+    <!-- Account Screen -->
+    <string name="account_button_login_title">Log in</string>
+    <string name="account_button_help_title">Help</string>
+
+    <!-- Login Screen -->
+    <string name="login_prompt_message">Log in with your email and password.</string>
+    <string name="login_send_data_error_message">An error occurred while trying to log in.</string>
+    <string name="login_email_hint">Your email</string>
+    <string name="login_email_support">You\'ll have to remember it</string>
+    <string name="login_email_error">The account with this email doesn\'t exist</string>
+    <string name="login_password_hint">Your password</string>
+    <string name="login_password_support">If you forgot it, request a reset</string>
+    <string name="login_password_error">Wrong password</string>
+    <string name="login_button_title">Enter account</string>
+
+    <!-- Help Screen -->
+    <string name="help_message1">If you cannot remember your email or password, please contact your department\'s accounts administrator.</string>
+    <string name="help_message2">Never ask other employees for their security details! This could pose as a serious risk to the integrity of our systems!</string>
+    
+    <!-- Products Screen -->
+    <string name="products_title">Products</string>
+    <string name="products_section_10_anomalies_title">Top 10 Anomalies</string>
+    <string name="products_section_10_demands_title">Top 10 Demands</string>
+    <string name="products_get_data_error_message">An error occurred. Could not retrieve products. Check your Internet connection and try again.</string>
+    <string name="products_button_see_all_title">See all</string>
+
+    <!-- All Anomalies Screen -->
+    <string name="anomalies_title">All Anomalies</string>
+    <string name="anomalies_get_data_error_message">An error occurred. Could not retrieve anomalies. Check your Internet connection and try again.</string>
+
+    <!-- All Demands Screen -->
+    <string name="demands_title">All Demands</string>
+    <string name="demands_get_data_error_message">An error occurred. Could not retrieve demands. Check your Internet connection and try again.</string>
+
+    <!-- Restocks Screen -->
+    <string name="restocks_title">Restocks</string>
+    <string name="restocks_get_data_error_message">An error occurred. Could not retrieve restocks. Check your Internet connection and try again.</string>
+
+    <!-- Customers Screen -->
+    <string name="customers_title">Customers</string>
+    <string name="customers_get_data_error_message">An error occurred. Could not retrieve customers. Check your Internet connection and try again.</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_category_account_title">Account</string>
+    <string name="settings_log_out_text">Log out</string>
+    <string name="settings_log_out_subtext">Exit your account</string>
+    <string name="settings_log_out_prompt_message">You will need to log back in to access the app.</string>
+    <string name="settings_log_out_error_message">Could not log out.</string>
+    <string name="settings_category_info_title">Info</string>
+    <string name="settings_app_version_text">App version: %1$s</string>
+
+</resources>
